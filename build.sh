@@ -6,14 +6,6 @@ red="\033[91m"
 blue="\033[94m"
 yellow="\033[93m"
 
-echo -e "$cyan===========================\033[0m"
-echo -e "$cyan=     GET KPROFILES       =\033[0m"
-echo -e "$cyan===========================\033[0m"
-
-echo -e "$yellow...LOADING...\033[0m"
-
-git clone https://github.com/dakkshesh07/Kprofiles drivers/misc/kprofiles
-
 echo -e "$red===========================\033[0m"
 echo -e "$red=   DELETED KERNELSU OLD  =\033[0m"
 echo -e "$red===========================\033[0m"
