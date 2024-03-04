@@ -1555,7 +1555,6 @@ CONFIG_LDO_WL2866D=y
 # VOP Driver
 #
 # CONFIG_GENWQE is not set
-CONFIG_KPROFILES=y
 # CONFIG_ECHO is not set
 # CONFIG_CXL_BASE is not set
 # CONFIG_CXL_AFU_DRIVER_OPS is not set
